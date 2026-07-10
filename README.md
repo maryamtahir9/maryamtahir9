@@ -16,11 +16,12 @@
 
 </div>
 
-<br/>
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Illustration"/>
 
-## 💫 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="30"/> About Me
 
 🎓 **BS Artificial Intelligence** student at **National Textile University, Faisalabad, Pakistan**
 
@@ -36,9 +37,10 @@
 
 <br clear="right"/>
 
----
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
 
 <div align="center">
 
@@ -64,9 +66,10 @@
 
 </div>
 
----
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> Featured Projects
 
 <table>
 <tr>
@@ -143,9 +146,10 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 </tr>
 </table>
 
----
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 📚 Currently Learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30"/> Currently Learning
 
 <div align="center">
 
@@ -158,26 +162,35 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 
 </div>
 
----
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryamtahir9&theme=tokyonight" width="100%" alt="Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryamtahir9&theme=aura" width="100%" alt="Profile Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryamtahir9&theme=tokyonight" width="49%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryamtahir9&theme=tokyonight" width="49%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryamtahir9&theme=aura" width="49%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryamtahir9&theme=aura" width="49%" alt="Most Commit Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maryamtahir9&theme=aura" width="49%" alt="Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maryamtahir9&theme=aura&utcOffset=5" width="49%" alt="Productive Time"/>
 
 <img src="https://streak-stats.demolab.com/?user=maryamtahir9&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamtahir9&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff&area=true" alt="Contribution Graph" width="100%"/>
 
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/maryamtahir9/maryamtahir9/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+
 </div>
 
----
+<!-- Animated Rainbow Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 📫 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="30"/> Let's Connect
 
 <div align="center">
 
