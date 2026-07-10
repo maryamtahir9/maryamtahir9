@@ -1,169 +1,187 @@
 <div align="center">
 
-# Hi 👋, I'm Maryam Tahir
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Maryam%20Tahir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Student%20%7C%20Frontend%20Developer%20%7C%20ML%20Engineer%20in%20the%20Making&descSize=18&descAlignY=55" width="100%"/>
 
-### AI Student | Frontend Developer | Aspiring Full-Stack & Machine Learning Engineer
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Web+Applications;React.js+%2B+FastAPI+%2B+Machine+Learning;Turning+Ideas+Into+Real-World+Solutions" alt="Typing Animation"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-tahir-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaryamthir@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=maryamtahir9&color=blueviolet&style=for-the-badge)
-
 </div>
 
----
+## 👩‍💻 About Me
 
-I'm a passionate **BS Artificial Intelligence** student at the **National Textile University, Faisalabad, Pakistan**. I enjoy building modern web applications, exploring machine learning, and creating AI-powered solutions that solve real-world problems.
+```python
+class MaryamTahir:
+    def __init__(self):
+        self.education = "BS Artificial Intelligence @ National Textile University, Faisalabad"
+        self.role = "Frontend Developer | Aspiring AI Engineer"
+        self.current_focus = ["LLMs", "RAG", "Computer Vision", "Full-Stack Development"]
+        self.daily_tools = ["React.js", "Python", "FastAPI", "Tailwind CSS"]
+        self.goal = "Become an AI Engineer & Full-Stack Developer"
 
-## 🚀 About Me
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing together.")
+```
 
-- 🎓 **BS Artificial Intelligence Student** at National Textile University, Faisalabad
-- 💻 **Frontend Developer** working with React.js
-- 🤖 Learning **Machine Learning, Deep Learning & Generative AI**
-- 🌱 Currently exploring **FastAPI, RAG, LLMs, Computer Vision, and Full-Stack Development**
-- 🔥 Passionate about building **scalable AI applications**
-- 📚 Always learning new technologies and improving my problem-solving skills
-- 🎯 **Goal:** Become an AI Engineer and Full-Stack Developer
-- 📫 Reach me at: **imaryamthir@gmail.com**
-- 🌐 Portfolio: **[maryam-tahir-portfolio.vercel.app](https://maryam-tahir-portfolio.vercel.app/)**
-
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js_(Learning)-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🗄️ Databases & BaaS
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI / Machine Learning
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow_(Learning)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch_(Learning)-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain_(Learning)-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- 🎓 **BS Artificial Intelligence** student at National Textile University, Faisalabad, Pakistan
+- 💻 Building modern, responsive web applications with **React.js** and **FastAPI**
+- 🤖 Developing AI solutions with **Computer Vision, LLMs, and Generative AI**
+- 🌱 Currently mastering **RAG pipelines, Deep Learning, and System Design**
+- 🤝 Open to **internships, freelance projects, and open-source collaboration**
 
 ---
 
-## 📌 Featured Projects
-
-### 🛒 [MT Store](https://github.com/maryamtahir9)
-A modern full-stack e-commerce platform with authentication, shopping cart, wishlist, admin dashboard, and secure checkout.
-
-> **Tech:** React · Appwrite · Tailwind CSS
-
-### 🤖 [AI Tools Platform](https://github.com/maryamtahir9)
-An AI-powered web application featuring:
-- ✍️ Text Generation
-- 🖼️ Image Captioning
-- 🎙️ Speech-to-Text & 🔊 Text-to-Speech
-- 🔗 QR Code Generator & URL Shortener
-- 🌤️ Weather Forecast
-
-> **Tech:** FastAPI · React · Gemini API
-
-### 🚦 [AI Traffic Flow Analysis](https://github.com/maryamtahir9)
-Real-time vehicle detection and traffic analysis using YOLOv8 and OpenCV.
-
-> **Tech:** Python · OpenCV · YOLOv8
-
-🔗 **Explore more projects on my [Portfolio](https://maryam-tahir-portfolio.vercel.app/)**
-
----
-
-## 📈 Currently Learning
-
-![LLMs](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/Retrieval--Augmented_Generation-4B8BBE?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-2496ED?style=for-the-badge)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maryamtahir9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+### Languages & Frontend
+<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,vite,tailwind&perline=8" alt="Languages and Frontend"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=maryamtahir9&theme=tokyonight&hide_border=false)
+### Backend, Databases & Cloud
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,appwrite,firebase,supabase,mysql,vercel,netlify&perline=8" alt="Backend and Databases"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtahir9&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### AI / ML & Tools
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,git,github,vscode,postman,figma,docker,kubernetes&perline=11" alt="AI ML and Tools"/>
 
 </div>
 
-## 🏆 GitHub Trophies
+<details>
+<summary><b>📋 Full Skill Breakdown</b></summary>
+<br/>
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, JavaScript, C++, SQL, HTML5, CSS3 |
+| **Frontend** | React.js, Vite, Tailwind CSS, Ant Design, Shadcn/UI, Framer Motion |
+| **Backend** | FastAPI, Node.js *(learning)* |
+| **Databases & BaaS** | Appwrite, Firebase, Supabase, SQL Server, MySQL |
+| **AI / ML** | Scikit-learn, OpenCV, YOLOv8, Google Gemini API, Hugging Face, RAG, TensorFlow *(learning)*, PyTorch *(learning)*, LangChain *(learning)* |
+| **Tools** | Git, GitHub, VS Code, Postman, Netlify, Vercel, Figma |
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 MT Store
+**Full-Stack E-Commerce Platform**
+
+A modern, production-ready e-commerce application with complete shopping experience.
+
+**Key Features:**
+- 🔐 Secure user authentication
+- 🛍️ Shopping cart & wishlist
+- 📊 Admin dashboard for inventory & orders
+- 💳 Secure checkout flow
+
+`React` `Appwrite` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Tools Platform
+**Multi-Feature AI Web Application**
+
+A unified platform integrating multiple AI utilities into one seamless interface.
+
+**Key Features:**
+- ✍️ Text generation & image captioning
+- 🎙️ Speech-to-text & text-to-speech
+- 🔗 QR code generator & URL shortener
+- 🌤️ Live weather forecasting
+
+`FastAPI` `React` `Gemini API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 AI Traffic Flow Analysis
+**Real-Time Computer Vision System**
+
+Intelligent traffic monitoring with real-time vehicle detection and analytics.
+
+**Key Features:**
+- 🎯 YOLOv8-powered vehicle detection
+- 📹 Live video stream processing
+- 📈 Traffic flow analytics & counting
+
+`Python` `OpenCV` `YOLOv8`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Explore More
+**Portfolio & Live Demos**
+
+Visit my portfolio to see all projects with live demos, source code, and detailed case studies.
+
+<div align="center">
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_All_Projects-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Currently Learning
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=maryamtahir9&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+`Large Language Models` · `RAG Pipelines` · `Deep Learning` · `System Design` · `Cloud Computing` · `Docker` · `Kubernetes`
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-maryamtahir9-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamtahir9)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maryam_Tahir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-tahir-developer)
-[![Gmail](https://img.shields.io/badge/Gmail-imaryamthir@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaryamthir@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-255E63?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
+<img src="https://github-readme-stats.vercel.app/api?username=maryamtahir9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtahir9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&langs_count=8" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=maryamtahir9&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maryamtahir9&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=ffffff&area=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 ---
 
-## 💡 Fun Fact
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing new projects, collaboration opportunities, internships, or ideas in AI and web development.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-maryam--tahir--portfolio.vercel.app-764BA2?style=flat-square&logo=vercel&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-maryam--tahir--developer-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-tahir-developer)
+[![Gmail](https://img.shields.io/badge/Gmail-imaryamthir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imaryamthir@gmail.com)
+
+<br/>
 
 > *"I believe technology should solve real-world problems and make people's lives easier."*
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
 
 </div>
