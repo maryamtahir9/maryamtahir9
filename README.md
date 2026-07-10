@@ -12,28 +12,29 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-tahir-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaryamthir@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=maryamtahir9&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
-## 👩‍💻 About Me
+<br/>
 
-```python
-class MaryamTahir:
-    def __init__(self):
-        self.education = "BS Artificial Intelligence @ National Textile University, Faisalabad"
-        self.role = "Frontend Developer | Aspiring AI Engineer"
-        self.current_focus = ["LLMs", "RAG", "Computer Vision", "Full-Stack Development"]
-        self.daily_tools = ["React.js", "Python", "FastAPI", "Tailwind CSS"]
-        self.goal = "Become an AI Engineer & Full-Stack Developer"
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding Illustration"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
-```
+## 💫 About Me
 
-- 🎓 **BS Artificial Intelligence** student at National Textile University, Faisalabad, Pakistan
-- 💻 Building modern, responsive web applications with **React.js** and **FastAPI**
-- 🤖 Developing AI solutions with **Computer Vision, LLMs, and Generative AI**
-- 🌱 Currently mastering **RAG pipelines, Deep Learning, and System Design**
-- 🤝 Open to **internships, freelance projects, and open-source collaboration**
+🎓 **BS Artificial Intelligence** student at **National Textile University, Faisalabad, Pakistan**
+
+💻 **Frontend Developer** crafting modern, responsive web apps with **React.js**
+
+🤖 Building **AI-powered solutions** with Computer Vision, LLMs & Generative AI
+
+🌱 Currently mastering **RAG pipelines, Deep Learning & System Design**
+
+🎯 **Goal:** Become an **AI Engineer & Full-Stack Developer**
+
+🤝 Open to **internships, freelance work & open-source collaboration**
+
+<br clear="right"/>
 
 ---
 
@@ -41,31 +42,27 @@ class MaryamTahir:
 
 <div align="center">
 
-### Languages & Frontend
+### 💬 Languages & Frontend
 <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,vite,tailwind&perline=8" alt="Languages and Frontend"/>
 
-### Backend, Databases & Cloud
+### ⚙️ Backend, Databases & Cloud
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,appwrite,firebase,supabase,mysql,vercel,netlify&perline=8" alt="Backend and Databases"/>
 
-### AI / ML & Tools
+### 🤖 AI / ML & Tools
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,git,github,vscode,postman,figma,docker,kubernetes&perline=11" alt="AI ML and Tools"/>
 
-</div>
-
-<details>
-<summary><b>📋 Full Skill Breakdown</b></summary>
 <br/>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | Python, JavaScript, C++, SQL, HTML5, CSS3 |
-| **Frontend** | React.js, Vite, Tailwind CSS, Ant Design, Shadcn/UI, Framer Motion |
-| **Backend** | FastAPI, Node.js *(learning)* |
-| **Databases & BaaS** | Appwrite, Firebase, Supabase, SQL Server, MySQL |
-| **AI / ML** | Scikit-learn, OpenCV, YOLOv8, Google Gemini API, Hugging Face, RAG, TensorFlow *(learning)*, PyTorch *(learning)*, LangChain *(learning)* |
-| **Tools** | Git, GitHub, VS Code, Postman, Netlify, Vercel, Figma |
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design"/>
+<img src="https://img.shields.io/badge/Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Shadcn"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
 
-</details>
+</div>
 
 ---
 
@@ -78,15 +75,17 @@ class MaryamTahir:
 ### 🛒 MT Store
 **Full-Stack E-Commerce Platform**
 
-A modern, production-ready e-commerce application with complete shopping experience.
+A modern, production-ready e-commerce application with a complete shopping experience.
 
 **Key Features:**
-- 🔐 Secure user authentication
-- 🛍️ Shopping cart & wishlist
-- 📊 Admin dashboard for inventory & orders
-- 💳 Secure checkout flow
+- Secure user authentication
+- Shopping cart & wishlist
+- Admin dashboard for inventory & orders
+- Secure checkout flow
 
-`React` `Appwrite` `Tailwind CSS`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -97,12 +96,14 @@ A modern, production-ready e-commerce application with complete shopping experie
 A unified platform integrating multiple AI utilities into one seamless interface.
 
 **Key Features:**
-- ✍️ Text generation & image captioning
-- 🎙️ Speech-to-text & text-to-speech
-- 🔗 QR code generator & URL shortener
-- 🌤️ Live weather forecasting
+- Text generation & image captioning
+- Speech-to-text & text-to-speech
+- QR code generator & URL shortener
+- Live weather forecasting
 
-`FastAPI` `React` `Gemini API`
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 </td>
 </tr>
@@ -115,11 +116,13 @@ A unified platform integrating multiple AI utilities into one seamless interface
 Intelligent traffic monitoring with real-time vehicle detection and analytics.
 
 **Key Features:**
-- 🎯 YOLOv8-powered vehicle detection
-- 📹 Live video stream processing
-- 📈 Traffic flow analytics & counting
+- YOLOv8-powered vehicle detection
+- Live video stream processing
+- Traffic flow analytics & counting
 
-`Python` `OpenCV` `YOLOv8`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 
 </td>
 <td width="50%" valign="top">
@@ -146,7 +149,12 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 
 <div align="center">
 
-`Large Language Models` · `RAG Pipelines` · `Deep Learning` · `System Design` · `Cloud Computing` · `Docker` · `Kubernetes`
+![LLMs](https://img.shields.io/badge/Large_Language_Models-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-2496ED?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -156,8 +164,10 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maryamtahir9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&icon_color=667eea" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtahir9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=764ba2&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maryamtahir9&theme=tokyonight" width="100%" alt="Profile Details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maryamtahir9&theme=tokyonight" width="49%" alt="Repos per Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maryamtahir9&theme=tokyonight" width="49%" alt="Most Commit Language"/>
 
 <img src="https://streak-stats.demolab.com/?user=maryamtahir9&theme=tokyonight&hide_border=true&background=0d1117&ring=764ba2&fire=667eea&currStreakLabel=764ba2" alt="GitHub Streak"/>
 
