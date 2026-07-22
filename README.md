@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-764BA2?style=for-the-badge&logo=vercel&logoColor=white)](https://www.maryamtahir.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-tahir-developer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaryamthir@gmail.com)
 
@@ -196,7 +196,7 @@ Visit my portfolio to see all projects with live demos, source code, and detaile
 
 I'm always open to discussing new projects, collaboration opportunities, internships, or ideas in AI and web development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maryam--tahir--portfolio.vercel.app-764BA2?style=flat-square&logo=vercel&logoColor=white)](https://maryam-tahir-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maryam--tahir--portfolio.vercel.app-764BA2?style=flat-square&logo=vercel&logoColor=white)](https://www.maryamtahir.tech/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maryam--tahir--developer-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maryam-tahir-developer)
 [![Gmail](https://img.shields.io/badge/Gmail-imaryamthir@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imaryamthir@gmail.com)
 
